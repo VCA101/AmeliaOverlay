@@ -1,14 +1,17 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/?domainCode=derricksteele",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/?domainCode=brynnireland",
   "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/",
-  "parentUrl": "https://www.northerntrust.com/united-states/home/",
+  "parentUrl": "https://www.heightsfinance.com/southern-finance/",
   "actions": {
-    "nav_retirement": {
-      "url": "https://www.northerntrust.com/united-states/what-we-do/investment-management/retirement"
+    "nav_location": {
+      "url": "https://www.heightsfinance.com/loan-office-location/heights-finance-in-marietta/"
     },
-    "nav_mutual_funds": {
-      "url": "https://www.northerntrust.com/united-states/what-we-do/investment-management/northern-funds"
+    "nav_appointment": {
+      "url": "https://outlook.office365.com/owa/calendar/HeightsFinanceofMarietta@heightsfinance.com/bookings/"
+    }
+    "nav_payments": {
+      "url": "https://mymoneytogo.repay.io/ebpp/#/"
     }
   }
 }
