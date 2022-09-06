@@ -12,6 +12,9 @@
     },
     "nav_payments": {
       "url": "https://mymoneytogo.repay.io/ebpp/#/"
+    }, 
+    "nav_home": {
+      "url": "https://www.heightsfinance.com/heights-finance/"
     }
   }
 }
