@@ -4,17 +4,15 @@
   "chatUrl": "https://us.demo.amelia.com/Amelia/ui/banking/",
   "parentUrl": "https://www.heightsfinance.com/heights-finance/",
   "actions": {
-    "nav_location": {
-      "url": "https://www.heightsfinance.com/loan-office-location/heights-finance-in-marietta/"
-    },
-    "nav_appointment": {
-      "url": "https://outlook.office365.com/owa/calendar/HeightsFinanceofMarietta@heightsfinance.com/bookings/"
-    },
-    "nav_payments": {
-      "url": "https://mymoneytogo.repay.io/ebpp/#/"
-    }, 
+    "nav_closet_location": {
+      "url": "https://www.amerantbank.com/branches/fl/miami/2590-biscayne-blvd"},
+    "nav_locations": {
+      "url": " https://www.amerantbank.com/?query=miami+beach&tabOrder=.%2Findex.html%2Clocations%2Cproducts%2Clinks%2Cfaqs&facetFilters=%7B%7D&filters=%7B%7D&referrerPageUrl=https%3A%2F%2Fwww.amerantbank.com%2F&verticalUrl=locations.html" },
+    "nav_checking": {
+      "url": "https://www.amerantbank.com/products/personal-checking/" }, 
+    "nav_apply": {
+      "url": "https://digitalbank.amerantbank.com/oao/launch" }, 
     "nav_home": {
-      "url": "https://www.heightsfinance.com/heights-finance/"
-    }
+      "url": "https://www.amerantbank.com/" }
   }
 }
