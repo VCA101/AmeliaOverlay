@@ -1,8 +1,8 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/banking/chat?domainCode=brynnireland",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/banking/chat?domainCode=amerantbank",
   "chatUrl": "https://us.demo.amelia.com/Amelia/ui/banking/",
-  "parentUrl": "https://www.heightsfinance.com/heights-finance/",
+  "parentUrl": "https://www.amerantbank.com/",
   "actions": {
     "nav_closet_location": {
       "url": "https://www.amerantbank.com/branches/fl/miami/2590-biscayne-blvd"},
