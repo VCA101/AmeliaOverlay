@@ -1,20 +1,20 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/banking/chat?domainCode=amerantbank",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/banking/chat?domainCode=brynnireland",
   "chatUrl": "https://us.demo.amelia.com/Amelia/ui/banking/",
-  "parentUrl": "https://www.amerantbank.com/",
+  "parentUrl": "https://www.oxy.com/careers/explore-careers/experienced-professionals/",
   "actions": {
-    "nav_closet_location": {
-      "url": "https://www.amerantbank.com/branches/fl/miami/2590-biscayne-blvd"},
-    "nav_locations": {
-      "url": " https://www.amerantbank.com/?query=miami+beach&tabOrder=.%2Findex.html%2Clocations%2Cproducts%2Clinks%2Cfaqs&facetFilters=%7B%7D&filters=%7B%7D&referrerPageUrl=https%3A%2F%2Fwww.amerantbank.com%2F&verticalUrl=locations.html" },
-    "nav_checking": {
-      "url": "https://www.amerantbank.com/products/personal-checking/" }, 
-    "nav_apply": {
-      "url": "https://digitalbank.amerantbank.com/oao/launch" }, 
-    "nav_directions": {
-      "url": "https://goo.gl/maps/Hbh8t5JfppmLprk8A" }, 
-    "nav_home": {
-      "url": "https://www.amerantbank.com/" }
+    "nav_page1": {
+      "url": "http://www.coulsoncompression.com/resources/docs/5120NG__50166-104_Feb08_.pdf#page=3"},
+    "nav_page2": {
+      "url": "http://www.coulsoncompression.com/resources/docs/5120NG__50166-104_Feb08_.pdf#page=14" },
+    "nav_page3": {
+      "url": "http://www.coulsoncompression.com/resources/docs/5120NG__50166-104_Feb08_.pdf#page=15" }, 
+    "nav_page4": {
+      "url": "http://www.coulsoncompression.com/resources/docs/5120NG__50166-104_Feb08_.pdf#page=28" }, 
+    "nav_snow": {
+      "url": "https://ven03597.service-now.com/nav_to.do?uri=incident.do?sys_id=c90fd9511b27d950d43ecb392a4bcb70" }, 
+    "nav_job": {
+      "url": "https://oxy.taleo.net/careersection/2/jobdetail.ftl?job=00029458&tz=GMT-05%3A00&tzname=America%2FNew_York" }
   }
 }
