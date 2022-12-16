@@ -1,24 +1,14 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/banking/chat?domainCode=brynnireland",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/banking/chat?domainCode=amerantbank",
   "chatUrl": "https://us.demo.amelia.com/Amelia/ui/banking/",
-  "parentUrl": "https://www.oxy.com/operations/performance-production/",
-  "actions": {
-    "nav_page1": {
-      "url": "https://www.industrialairpower.com/assets/images/Manuals/Quincy%20QR-25%20Model%205120%20Parts%20Manual.pdf#page=3"},
-    "nav_page2": {
-      "url": "https://www.industrialairpower.com/assets/images/Manuals/Quincy%20QR-25%20Model%205120%20Parts%20Manual.pdf#page=14" },
-    "nav_page3": {
-      "url": "https://www.industrialairpower.com/assets/images/Manuals/Quincy%20QR-25%20Model%205120%20Parts%20Manual.pdf#page=15" }, 
-    "nav_page4": {
-      "url": "https://www.industrialairpower.com/assets/images/Manuals/Quincy%20QR-25%20Model%205120%20Parts%20Manual.pdf#page=28" }, 
-    "nav_snow": {
-      "url": "https://us.demo.amelia.com/Amelia/api/cm/view/d4ade306-cd94-4582-a02a-6d797249f57f"}, 
-    "nav_newticket": {
-      "url": "https://us.demo.amelia.com/Amelia/api/cm/view/98bf6717-815d-4346-86f7-1326ba709a8b"}, 
-    "nav_home": {
-      "url": "https://hire.digitalworkforce.ai/1store/user/home" }, 
-    "nav_job": {
-      "url": "https://oxy.taleo.net/careersection/2/jobdetail.ftl?job=00029458&tz=GMT-05%3A00&tzname=America%2FNew_York" }
+  "parentUrl": "https://www.amerantbank.com/",
+"actions": {
+    "nav_closet_location": {"url": "https://www.amerantbank.com/branches/fl/miami/2590-biscayne-blvd"},
+    "nav_locations": {"url": "https://www.amerantbank.com/?query=miami+beach&tabOrder=.%2Findex.html%2Clocations%2Cproducts%2Clinks%2Cfaqs&facetFilters=%7B%7D&filters=%7B%7D&referrerPageUrl=https%3A%2F%2Fwww.amerantbank.com%2F&verticalUrl=locations.html"},
+    "nav_checking": {"url": "https://www.amerantbank.com/products/personal-checking/"}, 
+    "nav_apply": {"url": "https://digitalbank.amerantbank.com/oao/launch"}, 
+    "nav_directions": {"url": "https://goo.gl/maps/Hbh8t5JfppmLprk8A"}, 
+    "nav_home": {"url": "https://www.amerantbank.com/"}
   }
 }
