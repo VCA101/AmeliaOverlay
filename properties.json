@@ -2,7 +2,7 @@
   "originUrl": "https://us.demo.amelia.com/",
   "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/banking/chat?domainCode=amerantbank",
   "chatUrl": "https://us.demo.amelia.com/Amelia/ui/banking/",
-  "parentUrl": "https://www.amerantbank.com/",
+  "parentUrl": "https://www.amerantbank.com/products/personal-checking/",
 "actions": {
     "nav_closet_location": {"url": "https://www.amerantbank.com/branches/fl/miami/2590-biscayne-blvd"},
     "nav_locations": {"url": "https://www.amerantbank.com/?query=miami+beach&tabOrder=.%2Findex.html%2Clocations%2Cproducts%2Clinks%2Cfaqs&facetFilters=%7B%7D&filters=%7B%7D&referrerPageUrl=https%3A%2F%2Fwww.amerantbank.com%2F&verticalUrl=locations.html"},
