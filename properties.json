@@ -1,13 +1,13 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/banking/chat?domainCode=amerantbank",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/banking/",
-  "parentUrl": "https://www.amerantbank.com/",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/banking/chat?domainCode=brynnireland",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/brynn/",
+  "parentUrl": "https://costplusdrugs.com/",
   "actions": {
-    "nav_closet_location": {
-      "url": "https://www.amerantbank.com/branches/fl/miami/2590-biscayne-blvd"},
-    "nav_locations": {
-      "url": " https://www.amerantbank.com/?query=miami+beach&tabOrder=.%2Findex.html%2Clocations%2Cproducts%2Clinks%2Cfaqs&facetFilters=%7B%7D&filters=%7B%7D&referrerPageUrl=https%3A%2F%2Fwww.amerantbank.com%2F&verticalUrl=locations.html" },
+    "nav_drug": {
+      "url": "https://costplusdrugs.com/medications/imatinib-100mg-tablet/"},
+    "nav_contact_dr": {
+      "url": "https://costplusdrugs.com/contact-your-doctor/" },
     "nav_checking": {
       "url": "https://www.amerantbank.com/products/personal-checking/" }, 
     "nav_apply": {
