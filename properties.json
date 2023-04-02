@@ -1,8 +1,8 @@
 	{
-  "originUrl": "https://jewelers.demo.amelia.com/",
-  "ameliaUrl": "https://jewelers.demo.amelia.com/Amelia/ui/jewelers/chat?domainCode=jewelers",
-  "chatUrl": "https://jewelers.demo.amelia.com/Amelia/chat",
-  "parentUrl": "https://www.jewelersmutual.com/",
+  "originUrl": "https://www.rwlasvegas.com/",
+  "ameliaUrl": "https://hoffman.dev.amelia.com/",
+  "chatUrl": "https://hoffman.dev.amelia.com/Amelia/ui/hoffmandev/chat",
+  "parentUrl": "https://www.rwlasvegas.com/",
   "actions": {
     "nav_start_claim": {
       "url": "https://www.jewelersmutual.com/"
